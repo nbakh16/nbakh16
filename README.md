@@ -20,7 +20,7 @@
 
 - 📫 Reach me **nbakh16@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VQttiBJHVtJePc3YV-_vopkxfQwFKe1i/view?usp=sharing "nabil-akhunjee-resume-gdrive")
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1VQttiBJHVtJePc3YV-_vopkxfQwFKe1i/view?usp=sharing "nabil-akhunjee-resume-gdrive")**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
