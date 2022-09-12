@@ -4,9 +4,8 @@
 ### Mobile App Development
 <br />
 
-- Native Android
+- Native Android - Kotlin
 - Google Firebase, Rest API, Local Database(Room)
-- Learning Flutter
 <br />
 
 ### Game Development
