@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nabil Akhunjee 👋</h1>
-<h3 align="center">A passionate Mobile App and Game Developer.</h3>
+<h3 align="center">A passionate Mobile App and Game Developer</h3>
 
 ### Mobile App Development
 <br />
@@ -18,9 +18,9 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📫 Reach me **nbakh16@gmail.com**
-
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1VQttiBJHVtJePc3YV-_vopkxfQwFKe1i/view?usp=sharing "nabil-akhunjee-resume-gdrive")**
+
+- 📫 Reach me **nbakh16@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
