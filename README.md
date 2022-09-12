@@ -10,7 +10,7 @@
 
 ### Game Developer
 
-- Unreal Enine, Unity
+- Unreal Engine, Unity
 - Take a look at [Another FPS](https://tinyurl.com/anotherfps "Another FPS - GDrive")
 - Cinema4d, Sustance Painter
 
