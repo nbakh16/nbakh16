@@ -4,8 +4,9 @@
 ### Mobile App Development
 <br />
 
+- Flutter Framework - GetX, Provider, mvc
 - Native Android - Kotlin
-- Google Firebase, Rest API, Local Database(Room)
+- Google Firebase, Local Database, Rest API
 <br />
 
 ### Game Development
@@ -16,7 +17,7 @@
 
 <hr>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter** in-depth
 
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1VQttiBJHVtJePc3YV-_vopkxfQwFKe1i/view?usp=sharing "nabil-akhunjee-resume-gdrive")**
 
