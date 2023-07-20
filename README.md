@@ -1,14 +1,13 @@
 <h1 align="center">I'm Nabil Akhunjee 💫</h1>
-<h3 align="center">Mobile App Developer 🎀 Game Developer</h3>
+<h3 align="center">Mobile App Developer 🎀 Game Developer Enthusiast</h3>
 <br />
 <br />
 
 ### Mobile App Development
 
-- Flutter Framework - GetX, Provider, mvc
+- Flutter Framework - GetX, Provider, MVC
 - Native Android - Kotlin
-- Google Firebase, Local Database, Rest API
-<br />
+- Consume Rest API, Shared Preference, Google Firebasae
 
 ### Game Development
 
@@ -18,7 +17,7 @@
 
 <hr>
 
-- 🌱 I’m currently learning **Flutter** in-depth
+- 🌱 I’m currently learning **Flutter Framework** in-depth
 
 - 🎉 I'm looking to Collaborate on Flutter Projects
 
@@ -27,27 +26,26 @@
 - 📫 Reach me **nbakh16@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/nbakh16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nbakh16" height="30" width="40" /></a>
 <a href="https://fb.com/nbakh16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nbakh16" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-</p>
+### Languages and Tools I utilize:
 
-<p align="left"> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+[![My Skills: Proficient](https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,firebase "Proficient")](https://skillicons.dev) :green_circle:Proficient
 
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[![My Skills: Intermediate](https://skillicons.dev/icons?i=html,css,bootstrap "Intermediate")](https://skillicons.dev) :green_circle:Intermediate
 
-<p align="left"> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> </p>
+[![My Skills: Average](https://skillicons.dev/icons?i=unity,unreal,cpp,cs,python,java "Average")](https://skillicons.dev) :green_circle:Average
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbakh16&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+<hr>
 
+### GitHub Profile Stats:
 
+[![Nabil Akhunjee's GitHub Streak](https://streak-stats.demolab.com?user=nbakh16&theme=vue-dark&border_radius=25&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=512&background=45%2C1E0136%2C021A00&fire=EB4900&currStreakNum=EB4900&border=42B883 "Nabil Akhunjee's GitHub Streak")](https://github.com/nbakh16) :green_circle: 
+[![Nabil Akhunjee's Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=nbakh16&theme=vue-dark&hide_border=false&border_color=42B883&border_radius=25&bg_color=0,021A00,1E0136&include_all_commits=true&count_private=true&layout=compact "Nabil Akhunjee's Most Used Language")](https://github.com/nbakh16)
 
-
-
+[![Nabil Akhunjee's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nbakh16&radius=25&theme=vue&height=300&area=true&title_color=ffffff&color=ffffff&bg_color=021201&point=42B883&line=EB4900 "Nabil Akhunjee's Github Contributions Graph")](https://github.com/nbakh16)
 
