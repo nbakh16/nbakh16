@@ -21,7 +21,7 @@
 
 - 🎉 I'm looking to Collaborate on Flutter Projects
 
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1VQttiBJHVtJePc3YV-_vopkxfQwFKe1i/view?usp=sharing "nabil-akhunjee-resume-gdrive")**
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/161OhzwciYI6gzkFIFQYchlYY9vPe9E7z/view "nabil-akhunjee-resume-gdrive")**
 
 - 📫 Reach me **nbakh16@gmail.com**
 
