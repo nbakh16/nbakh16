@@ -5,9 +5,11 @@
 
 ### Mobile App Development
 
-- Flutter Framework - GetX, Provider, MVC
+- Flutter Framework - Riverpod, GetX, MVC
 - Native Android - Kotlin
 - Consume Rest API, Shared Preference, Google Firebasae
+- Git version control
+- UI design with custom animations
 
 ### Game Development
 
