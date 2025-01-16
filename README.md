@@ -1,15 +1,16 @@
 <h1 align="center">I'm Nabil Akhunjee 💫</h1>
-<h3 align="center">Mobile App Developer 🎀 Game Developer Enthusiast</h3>
+<h2 align="center"><a href="https://nbakh16.github.io">"Portfolio"</a></h2>
 <br />
 <br />
 
-### Mobile App Development
+### Apps Development
 
-- Flutter Framework - Riverpod, GetX, MVC
+- Flutter Framework - BLoC, GetX, MVVM
 - Native Android - Kotlin
-- Consume Rest API, Shared Preference, Google Firebasae
+- Consume Rest API
+- Firebasae Push NOtification
 - Git version control
-- UI design with custom animations
+- UI design with interactive animations
 
 ### Game Development
 
@@ -19,11 +20,11 @@
 
 <hr>
 
-- 🌱 I’m currently learning **Flutter Framework** in-depth
+- 🌱 Besides **Flutter Framework**, I'm currently learning **Bash Scripting**
 
 - 🎉 I'm looking to Collaborate on Flutter Projects
 
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/161OhzwciYI6gzkFIFQYchlYY9vPe9E7z/view "nabil-akhunjee-resume-gdrive")**
+- 📄 Know about my experiences **[Resume](https://docs.google.com/document/d/1Oo9vaNfM2w4szNoV1h4VMMM_6zkD5vYm/edit?usp=sharing&ouid=115217856295532767553&rtpof=true&sd=true "nabil-akhunjee-resume")**
 
 - 📫 Reach me **nbakh16@gmail.com**
 
